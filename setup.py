@@ -6,7 +6,7 @@ from setuptools import find_packages, setup
 dependencies = ['click',                 # command line parsing
                 'enum34==1.0.4',          # enum support
                 'docker-py==1.1.0',       # docker API
-                'urllib3==1.10.3',
+                'urllib3==1.24.2',
                 'pycparser==2.10',
                 'pyopenssl==0.15.1',      # SSL Support
                 'ndg-httpsclient==0.3.3', # SSL Support
