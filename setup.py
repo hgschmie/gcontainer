@@ -8,7 +8,7 @@ dependencies = ['click',                 # command line parsing
                 'docker-py==1.1.0',       # docker API
                 'urllib3==1.10.3',
                 'pycparser==2.10',
-                'pyopenssl==0.15.1',      # SSL Support
+                'pyopenssl==17.5.0',      # SSL Support
                 'ndg-httpsclient==0.3.3', # SSL Support
                 'pyasn1==0.1.7',          # SSL Support
                 'iso8601==0.1.10',        # Date and time
